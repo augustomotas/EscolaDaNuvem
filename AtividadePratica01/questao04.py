@@ -1,4 +1,4 @@
-# Calculadora de Preço Total
+# Preço Total
 
 nome_produto = "Cadeira Infantil"
 preco_unitario = 12.40
